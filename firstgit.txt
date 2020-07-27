@@ -2,3 +2,5 @@ my firstfile in git
  
  
  find out the changes that are happen
+
+is the two branches are  merged or not?
