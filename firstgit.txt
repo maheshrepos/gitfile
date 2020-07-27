@@ -1,1 +1,4 @@
 my firstfile in git
+ 
+ 
+ find out the changes that are happen
