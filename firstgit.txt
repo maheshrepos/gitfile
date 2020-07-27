@@ -1,4 +1,5 @@
 my firstfile in git
  
+ changes are taken place between branches
  
  find out the changes that are happen
